@@ -35,7 +35,13 @@ and run the command
 
 
 ##  Other Tools 
-for plasma 5
+
+##  For  plasma 6
+- Chat Gpt  [Github](https://github.com/samirgaire10/com.samirgaire10.chatgpt-plasma6.git)
+
+
+
+##  For  plasma 5
 - Goolge gimini [Github](https://github.com/samirgaire10/com.samirgaire10.Google-Gemini)
 - Chat Gpt  [Github](https://github.com/dark-eye/com.darkeye.chatGPT)
 - perplexity  [Github](https://github.com/samirgaire10/com.samirgaire10.perplexity)
