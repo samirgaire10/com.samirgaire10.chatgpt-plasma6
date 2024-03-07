@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "samirgaire10"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Add a chat-gpt desktop.",
+        "Icon": "applications-internet",
+        "Id": "com.samirgaire10.chatgpt-plasma6",
+        "License": "GPL-2.0+",
+        "Name": "chat gpt",
+        "Website": "https://github.com/samirgaire10"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
