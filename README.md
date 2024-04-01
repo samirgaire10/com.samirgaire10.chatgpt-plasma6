@@ -52,6 +52,7 @@ and run the command
 
 - perplexityAi [Github](https://github.com/samirgaire10/com.samirgaire10.perplexityAi-plasma6.git)
 
+- Blackbox AI  [Github](https://github.com/samirgaire10/blackbox.AI.git)
 
 
 ##  For  plasma 5
