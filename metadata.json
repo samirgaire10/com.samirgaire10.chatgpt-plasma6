@@ -12,7 +12,8 @@
         "Id": "com.samirgaire10.chatgpt-plasma6",
         "License": "GPL-2.0+",
         "Name": "chat gpt",
-        "Website": "https://github.com/samirgaire10"
+        "Website": "https://github.com/samirgaire10/com.samirgaire10.chatgpt-plasma6.git",
+        "github": "https://github.com/samirgaire10"
     },
     "X-Plasma-API-Minimum-Version": "6.0"
 }
