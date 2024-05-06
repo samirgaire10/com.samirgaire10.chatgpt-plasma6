@@ -1,4 +1,4 @@
-#  Deepl translater  widget for plasma 6
+#  Chatgpt widget for plasma 6
 
 <h1 align="center">
 
@@ -38,6 +38,8 @@ move the folder to `.local/share/plasma/plasmoids/`
 - Blackbox AI  [Github](https://github.com/samirgaire10/com.samirgaire10.blackbox.AI_plasma6.git)
 
 - Weblink  [Github](https://github.com/samirgaire10/com.samirgaire10.Weblink-plasma6.git)
+
+- Google Translater [Github](https://github.com/samirgaire10/com.samirgaire10.GoogleTranslater-plasma6.git)
 
 
 ## For plasma 5
