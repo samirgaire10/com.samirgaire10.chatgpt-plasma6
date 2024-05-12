@@ -18,7 +18,6 @@ run the command on terminal
 move the folder to `.local/share/plasma/plasmoids/`
 
 
-
 ## For plasma 6
 
 - Chat Gpt [Github](https://github.com/samirgaire10/com.samirgaire10.chatgpt-plasma6.git)
@@ -39,7 +38,10 @@ move the folder to `.local/share/plasma/plasmoids/`
 
 - Weblink  [Github](https://github.com/samirgaire10/com.samirgaire10.Weblink-plasma6.git)
 
+
 - Google Translater [Github](https://github.com/samirgaire10/com.samirgaire10.GoogleTranslater-plasma6.git)
+
+- google search [Github](https://github.com/samirgaire10/com.samirgaire10.Google-plasma6.git)
 
 
 ## For plasma 5
