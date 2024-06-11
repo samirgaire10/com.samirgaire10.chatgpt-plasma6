@@ -74,6 +74,21 @@ PlasmoidItem {
 
                 readonly property bool useMinViewWidth : plasmoid.configuration.useMinViewWidth
 
+
+
+  WebEngineProfile {
+            id: chatgptProfile
+            httpUserAgent: getUserAgent()
+            storageName: "chatgpt"
+            offTheRecord: false
+            httpCacheType: WebEngineProfile.DiskHttpCache
+            persistentCookiesPolicy: WebEngineProfile.ForcePersistentCookies
+        }
+
+        profile: chatgptProfile
+
+
+
                 Connections {
                     target: plasmoid.configuration
 
